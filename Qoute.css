@@ -1,0 +1,101 @@
+body{
+  position: static;
+  background-color: orange;
+    height: auto;
+    width: auto;
+}
+
+.box{ 
+  height:274px;
+  width:544px;
+  margin: auto;
+  margin-top: 93px;
+  background-color:white;
+  border-radius:7px;
+}
+
+h5{
+    font-family: 'Nunito', sans-serif;
+
+}
+.text-div{
+    height: 193px;
+    padding-top: 15px;
+    text-align: center;
+   padding: 29px;
+   font-family: 'Cinzel', serif;
+   font-size: 18px;
+}
+
+.author{
+    positidon: absolute;
+    margin-top: 78px;
+    float: right;
+}
+.author-div{
+    
+}
+.tools{
+    
+    margin-top: -22px;
+    margin-right:1px;
+    width: 522px;
+    float:right;
+    
+}
+.div-btn{
+    
+    float: right;
+    margin-top: 20px;
+    margin-right: 23px;
+}
+.quteBtn{
+font-family: 'Nunito', sans-serif;
+    background-color: orange;
+    display: block;
+    height: 42px;
+    width: 99px;
+    box-shadow: none;
+    border: solid white;
+    border-radius: 8px;
+}
+
+.quteBtn:hover{
+    background-color: darkorange;
+}
+.quteBtn:active{
+    background-color: black;
+}
+
+.shareBtn{
+    font-family: 'Nunito', sans-serif;
+
+    background-color: orange;
+    height: 35px;
+    border:2px solid white;
+    border-radius: 5px;
+}
+.shareBtn:hover{
+background-color: darkorange;
+}
+.shareBtn:active{
+    background-color: black;
+}
+
+.div-share-btn{
+    
+    position: absolute;
+    margin-top: 23px;
+    margin-right: 23px;
+    border:1px solid white;
+    border-radius: 6px;
+}
+
+.byme{
+    position: absolute;
+    margin-top:62px;
+    margin-left: 47%;
+    text-align :center;
+    font-family: 'Nunito', sans-serif;
+
+}
